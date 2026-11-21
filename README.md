@@ -31,5 +31,6 @@ skills/<slug>/references/     # optional supporting docs
 | `grill-with-docs` | A relentless interview to sharpen a plan or design before building, which also builds a glossary and ADRs as you go. |
 | `diagnosing-bugs` | A discipline for hard bugs: build a tight, red-capable feedback loop first, then reproduce, minimise, hypothesise, and fix. |
 | `tdd` | Test-driven development: red-green-refactor, tests at agreed public seams only, with good/bad test examples. |
+| `ui-hill-climb` | Improve one page (or one backend area) by scoring it and iterating in rounds — keep a round only if the score goes up, stop at 9 or above, max 2 rounds per page. The user's own process, from Theo Browne's hill-climb method. |
 
 `council`, `sol-loop`, `full-stop`, and `file-pr` are adapted from Theo Browne's tstack repo (MIT) for GitHub Copilot. `grill-with-docs`, `diagnosing-bugs`, and `tdd` are adapted from Matt Pocock's skills repo (MIT) for GitHub Copilot. Each adapted skill says so at the top of its SKILL.md.
